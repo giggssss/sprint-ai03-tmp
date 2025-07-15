@@ -3,7 +3,6 @@ def mul(a,b):
 
 print("test")
 
-
 def add(a,b):
     return a + b
 
