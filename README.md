@@ -6,7 +6,6 @@
 
 - `data/`: MNIST 데이터셋이 저장되는 디렉토리
 - `models/`: 모델 정의 파일
-- `notebooks/`: 데이터 탐색을 위한 Jupyter 노트북
 - `utils/`: 데이터 로딩 유틸리티
 - `main.py`: 메인 실행 스크립트
 
